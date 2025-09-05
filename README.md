@@ -12,3 +12,5 @@ pm run preview\ — vista previa local
 
 ## Deploy
 GitHub Pages vía Actions (ver \.github/workflows/deploy.yml\).
+
+
