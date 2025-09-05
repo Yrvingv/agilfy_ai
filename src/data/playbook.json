@@ -1,0 +1,98 @@
+[
+  {
+    "id": "facturas-sheets",
+    "titulo": "Cargar facturas a Sheets + PDF",
+    "rubros": ["pymes", "estudios contables"],
+    "dolor": "copiar facturas",
+    "valor": "Carga en segundos, sin errores.",
+    "minutos_por_tarea": 3,
+    "tareas_por_semana": 80,
+    "dificultad": "Baja",
+    "stack": ["Python", "Gmail", "Sheets"],
+    "media": { "type": "video", "mp4": "/videos/facturas.mp4"}
+  },
+  {
+    "id": "reporte-ventas-diario",
+    "titulo": "Reporte de ventas diario",
+    "rubros": ["retail", "e-commerce", "restaurantes"],
+    "dolor": "armar reportes",
+    "valor": "Reporte listo cada mañana.",
+    "minutos_por_tarea": 20,
+    "tareas_por_semana": 5,
+    "dificultad": "Media",
+    "stack": ["Python", "API", "BigQuery"],
+    "media": { "type": "video", "mp4": "/videos/ventas.mp4"}
+  },
+  {
+    "id": "bot-faq-whatsapp",
+    "titulo": "Bot de respuestas frecuentes (WhatsApp)",
+    "rubros": ["e-commerce", "coaches", "restaurantes"],
+    "dolor": "mismas preguntas",
+    "valor": "Filtra y responde 24/7.",
+    "minutos_por_tarea": 2,
+    "tareas_por_semana": 150,
+    "dificultad": "Media",
+    "stack": ["Python", "Twilio/WA"],
+    "media": { "type": "video", "webm": "/videos/comunicacion-bg.webm", "mp4": "/videos/comunicacion-bg.mp4", "poster": "/images/comunicacion-poster.jpg" }
+  },
+  {
+    "id": "etl-precios-scraper",
+    "titulo": "Scraper de precios + ETL",
+    "rubros": ["retail", "e-commerce"],
+    "dolor": "actualizar catálogos",
+    "valor": "Precio y stock siempre al día.",
+    "minutos_por_tarea": 10,
+    "tareas_por_semana": 14,
+    "dificultad": "Media",
+    "stack": ["Python", "Requests/BS4", "CSV"],
+    "media": { "type": "video", "mp4": "/videos/reel-dashboard.mp4" }
+  },
+  {
+  "id": "alertas-stock-telegram",
+  "titulo": "Alertas de stock en Telegram",
+  "rubros": ["retail", "e-commerce"],
+  "dolor": "quiebre de stock inesperado",
+  "valor": "Avisos instantáneos y reorden a tiempo.",
+  "minutos_por_tarea": 3,
+  "tareas_por_semana": 70,
+  "dificultad": "Baja",
+  "stack": ["Python", "Telegram Bot API", "Sheets/Shopify"],
+  "media": { "type": "video", "mp4": "/videos/alertasstock-bg.mp4"}
+},
+{
+  "id": "conciliacion-bancaria-auto",
+  "titulo": "Conciliación bancaria automática",
+  "rubros": ["pymes", "estudios contables"],
+  "dolor": "conciliación manual lenta",
+  "valor": "Cruce de extractos y facturas sin teclear.",
+  "minutos_por_tarea": 8,
+  "tareas_por_semana": 30,
+  "dificultad": "Media",
+  "stack": ["Python", "IMAP/Gmail", "Pandas", "Sheets"],
+  "media": { "type": "video", "mp4": "/videos/bancaria.mp4" }
+},
+{
+  "id": "ocr-facturas-a-datos",
+  "titulo": "Lectura de facturas PDF → datos",
+  "rubros": ["pymes", "proveedores"],
+  "dolor": "tipeo de facturas",
+  "valor": "Extracción OCR y validación con reglas.",
+  "minutos_por_tarea": 4,
+  "tareas_por_semana": 60,
+  "dificultad": "Media",
+  "stack": ["Python", "Tesseract/Cloud Vision", "Pandas", "Sheets/BigQuery"],
+  "media": { "type": "video", "mp4": "/videos/procesos-bg.mp4" }
+},
+{
+  "id": "recordatorios-cobranzas-wa-tg",
+  "titulo": "Recordatorios de cobro (WA/Telegram)",
+  "rubros": ["pymes", "colegios privados", "estudios contables"],
+  "dolor": "cobranzas atrasadas",
+  "valor": "Mensajes automáticos antes y después del vencimiento.",
+  "minutos_por_tarea": 2,
+  "tareas_por_semana": 80,
+  "dificultad": "Baja",
+  "stack": ["Python", "WhatsApp (Twilio)", "Telegram Bot API", "Sheets"],
+  "media": { "type": "video", "mp4": "/videos/procesos-bg.mp4" }
+}
+]

@@ -1,0 +1,17 @@
+﻿[
+  {
+    "id": "reel-1",
+    "type": "video",
+    "title": "Bot de reservas",
+    "webm": "/projects/reel-bot.webm",
+    "mp4": "/projects/reel-bot.mp4",
+    "poster": "/projects/reel-bot-poster.jpg"
+  },
+  {
+    "id": "reel-2",
+    "type": "image",
+    "title": "Dashboard Ventas",
+    "src": "/projects/reel-dashboard.jpg"
+  }
+]
+

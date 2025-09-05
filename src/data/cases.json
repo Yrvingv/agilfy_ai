@@ -1,0 +1,17 @@
+[
+  {
+    "id": "case-1",
+    "title": "Bot de reservas",
+    "image": "case-bot-1.jpg"
+  },
+  {
+    "id": "case-2",
+    "title": "Dashboard ventas retail",
+    "image": "case-dashboard-1.jpg"
+  },
+  {
+    "id": "case-3",
+    "title": "Scraper de catálogos",
+    "image": "case-scraper-1.jpg"
+  }
+]

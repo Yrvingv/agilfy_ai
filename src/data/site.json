@@ -1,0 +1,37 @@
+{
+  "brand": "AGILFY",
+  "whatsapp": {
+    "url": "https://wa.me/5493813594194?text=Hola,%20quiero%20coordinar%20una%20reuni%C3%B3n."
+  },
+  "theme": "matrixDark",
+  "toggles": {
+    "showSidebar": true,
+    "showMobileDock": true,
+    "enableParallax": true
+  },
+  "routes": [
+    "hub",
+    "procesos",
+    "datos",
+    "comunicacion",
+    "micro-saas"
+  ],
+  "metrics": [
+    {
+      "label": "Proyectos Ejecutados",
+      "value": 12,
+      "suffix": "+"
+    },
+    {
+      "label": "Bots activos",
+      "value": 3,
+      "suffix": ""
+    },
+    {
+      "label": "Apps desarrolladas",
+      "value": 4,
+      "suffix": ""
+    }
+  ]
+  
+}

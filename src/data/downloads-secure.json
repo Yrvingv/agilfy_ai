@@ -1,0 +1,12 @@
+[
+  {
+    "id": "plantilla-automatizacion",
+    "title": "Plantilla de evaluación de automatizaciones",
+    "requiresToken": true
+  },
+  {
+    "id": "playbook-bots",
+    "title": "Playbook de bots de atención",
+    "requiresToken": true
+  }
+]

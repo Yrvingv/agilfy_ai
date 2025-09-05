@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+
+.horizontal { scroll-snap-type: x mandatory; }
+.panel { scroll-snap-align: start; scroll-snap-stop: always; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+}
+/* src/styles/tailwind.css */
+
+@layer base {
+  html, body { @apply font-sans; }
+}
+
+/* iOS safe areas para CTA/dock */
+.safe-bottom { padding-bottom: max(env(safe-area-inset-bottom), 16px); }

@@ -1,0 +1,54 @@
+[
+  {
+    "slug": "procesos",
+    "title": "Automatización de Procesos Administrativos",
+    "summary": "Eliminá tareas repetitivas con scripts robustos en Python.",
+    "bullets": [
+      "Copias, reportes y planillas en segundos",
+      "Integraciones con Excel/Sheets y PDFs",
+      "Flujos con correos, WhatsApp y APIs"
+    ],
+    "ctaLabel": "Optimizar mis procesos",
+    "route": "procesos",
+    "bgVideo": "procesos-bg"
+  },
+  {
+    "slug": "datos",
+    "title": "Inteligencia de Datos",
+    "summary": "Limpieza, dashboards y captura automatizada de información externa.",
+    "bullets": [
+      "ETL simple y trazable",
+      "Dashboards claros para decisiones",
+      "Web scraping responsable"
+    ],
+    "ctaLabel": "Quiero claridad en mis datos",
+    "route": "datos",
+    "bgVideo": "datos-bg"
+  },
+  {
+    "slug": "comunicacion",
+    "title": "Atención y Comunicación Inteligente",
+    "summary": "Bots en WhatsApp/IG/web que responden 24/7.",
+    "bullets": [
+      "FAQs, catálogos y turnos",
+      "Filtros para leads calificados",
+      "Integración con CRM / Google Sheets"
+    ],
+    "ctaLabel": "Activar mi bot",
+    "route": "comunicacion",
+    "bgVideo": "comunicacion-bg"
+  },
+  {
+    "slug": "micro-saas",
+    "title": "Aplicaciones y Micro-SaaS a Medida",
+    "summary": "Sistemas en la nube, simples y enfocados en tu necesidad.",
+    "bullets": [
+      "Alternativa a planillas caóticas",
+      "Pagás por lo que usás",
+      "Acceso desde cualquier dispositivo"
+    ],
+    "ctaLabel": "Construir mi micro-SaaS",
+    "route": "micro-saas",
+    "bgVideo": "microsaas-bg"
+  }
+]
